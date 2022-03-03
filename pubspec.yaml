@@ -1,7 +1,14 @@
 name: rrad_mfa
 description: Flutter package for Multi Factor Authentication.
 version: 0.0.1
-homepage: "https://rrad.com.bd"
+repository: https://github.com/rrad-bd/rrad_mfa
+homepage: https://github.com/rrad-bd/rrad_mfa
+issue_tracker: https://github.com/rrad-bd/rrad_mfa/issues
+readme: https://github.com/rrad-bd/rrad_mfa/blob/main/README.md
+license:
+  name: MIT
+  url: https://github.com/rrad-bd/rrad_mfa/blob/main/LICENSE
+main: rrad_mfa.dart
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
